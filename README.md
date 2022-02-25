@@ -3,10 +3,10 @@
 # Projeto Dummy
 ## Manual de instalação
 
-Repositório para demonstração turma IGE456
-- topico 1
-- topico 2
-- topico 3
+Para instalar esta app deve fazer isto
+- acção 1
+- acção 2
+- acção 3
 - ...
 
 
@@ -16,11 +16,11 @@ Repositório para demonstração turma IGE456
 
 ### Parte 2
 ...
- 25/02/2022
  
  
 -----------------------------------------------------------------------
 
-FOOTER: Last edit by FBA @ 25/02/2022
-
+FOOTER: 
+- v1.0 FBA 25/02/2022
+- v1.1 FBA 27/02/2022
 -----------------------------------------------------------------------
