@@ -1,3 +1,5 @@
+![ISTA School @ ISCTE](https://gci.iscte-iul.pt/2020/logotipos/files/brand_v2/escolas/rgb/ista/en/horizontal/main/rgb_ista_en_horizontal_main.png)
+
 # Projeto Dummy
 ## Manual de instalação
 
@@ -14,3 +16,11 @@ Repositório para demonstração turma IGE456
 
 ### Parte 2
 ...
+ 25/02/2022
+ 
+ 
+-----------------------------------------------------------------------
+
+FOOTER: Last edit by FBA @ 25/02/2022
+
+-----------------------------------------------------------------------
